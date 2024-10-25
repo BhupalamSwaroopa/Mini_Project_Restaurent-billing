@@ -1,4 +1,4 @@
-**Restaurant Billing System**
+# Restaurant Billing System
 
 A simple Python-based billing application using the Tkinter library for a restaurant or food establishment. The system allows for easy item selection, automatic calculation of totals, and tax addition, generating a printable bill in real-time.
 
